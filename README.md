@@ -138,10 +138,6 @@ Gemini-resume-scanner/
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Support
 
 For issues and questions, please create an issue in the GitHub repository.
